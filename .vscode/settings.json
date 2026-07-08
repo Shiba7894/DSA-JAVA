@@ -1,0 +1,6 @@
+{
+  "code-runner.executorMap": {
+    "java": "cd $workspaceRoot && javac $fileName && java $fileNameWithoutExt"
+  },
+  "code-runner.fileDirectoryAsCwd": false
+}
